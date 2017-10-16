@@ -1,0 +1,19 @@
+/RecBTofCalHitCnv.cxx/1.1/Wed Dec 19 06:07:25 2007//TRootCnvSvc-02-01-12
+/RecETofCalHitCnv.cxx/1.1/Wed Dec 19 06:07:25 2007//TRootCnvSvc-02-01-12
+/RecEmcClusterCnv.cxx/1.5/Wed Apr  2 02:40:58 2008//TRootCnvSvc-02-01-12
+/RecEmcHitCnv.cxx/1.6/Wed Apr  2 02:40:58 2008//TRootCnvSvc-02-01-12
+/RecEmcShowerCnv.cxx/1.8/Tue Jan 13 02:18:52 2009//TRootCnvSvc-02-01-12
+/RecEvTimeCnv.cxx/1.5/Mon Sep  1 13:47:36 2008//TRootCnvSvc-02-01-12
+/RecExtTrackCnv.cxx/1.9/Tue Aug 24 07:19:36 2010//TRootCnvSvc-02-01-12
+/RecMdcDedxCnv.cxx/1.9/Sun Aug 14 09:06:27 2011//TRootCnvSvc-02-01-12
+/RecMdcDedxHitCnv.cxx/1.4/Sun Aug 14 09:06:27 2011//TRootCnvSvc-02-01-12
+/RecMdcHitCnv.cxx/1.4/Wed Apr  2 02:40:58 2008//TRootCnvSvc-02-01-12
+/RecMdcKalHelixSegCnv.cxx/1.3/Thu May 12 06:44:52 2011//TRootCnvSvc-02-01-12
+/RecMdcKalTrackCnv.cxx/1.14/Tue Nov  6 09:26:48 2012//TRootCnvSvc-02-01-12
+/RecMdcTrackCnv.cxx/1.8/Tue Nov  6 09:26:48 2012//TRootCnvSvc-02-01-12
+/RecMucRecHitCnv.cxx/1.1/Wed Dec 19 06:07:25 2007//TRootCnvSvc-02-01-12
+/RecMucTrackCnv.cxx/1.6/Thu Feb 21 07:30:27 2013//TRootCnvSvc-02-01-12
+/RecTofTrackCnv.cxx/1.3/Tue Sep 13 06:19:57 2016//TRootCnvSvc-02-01-12
+/RecTrackCnv.cxx/1.4/Wed Apr  2 02:40:58 2008//TRootCnvSvc-02-01-12
+/RecZddChannelCnv.cxx/1.2/Wed Oct 22 02:13:33 2014//TRootCnvSvc-02-01-12
+D
